@@ -1,9 +1,9 @@
 {
     "https://api.shinyapps.io": {
         "server_url": "https://api.shinyapps.io",
-        "filename": "/Users/kenjisato/Documents/GitHub/wooldridge",
-        "app_url": "https://kjst.shinyapps.io/wooldridge/",
-        "app_id": 13358454,
+        "filename": "C:\\Users\\masao\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\wooldridge",
+        "app_url": "https://renkonnimono.shinyapps.io/wooldridge/",
+        "app_id": 13381261,
         "app_guid": null,
         "title": "wooldridge",
         "app_mode": "python-shiny",
